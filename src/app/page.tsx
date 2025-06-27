@@ -57,6 +57,13 @@ const projects: Project[] = [
     tags: ['DL', 'CV','TensorFlow', 'Hugging Face','Gradio'],
     link: 'https://huggingface.co/spaces/Ahmedhassan54/Defect-Detection'
   },
+    {
+    id: '7',
+    title: 'Travel-Blog-Website',
+    description: 'Built a Travel BLog Website using NEXTjs for proper SEO SSR,CSR (deployed on vercel)',
+    tags: [ 'Nextjs','Mongdb', 'Node.js','React.js'],
+    link: 'https://travel-blog-website-git-72d31b-ahmed-hassans-projects-96c42d63.vercel.app/'
+  },
 ];
 
 const container = {

@@ -64,6 +64,13 @@ const projects: Project[] = [
     tags: [ 'Nextjs','Mongdb', 'Node.js','React.js'],
     link: 'https://travel-blog-website-git-72d31b-ahmed-hassans-projects-96c42d63.vercel.app/'
   },
+   {
+    id: '8',
+    title: 'Microservice-Ecommerce-Website',
+    description: 'Built a Microservice Ecommerce Website using MERN Stack and NextJs for proper SEO SSR,CSR (deployed on vercel and backend on render)',
+    tags: [ 'Nextjs','Mongdb', 'Node.js','React.js','Exoress'],
+    link: 'https://ecommerce-frontend-git-main-ahmed-hassans-projects-96c42d63.vercel.app/'
+  },
 ];
 
 const container = {

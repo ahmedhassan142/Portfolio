@@ -74,9 +74,9 @@ const projects: Project[] = [
    {
     id: '9',
     title: 'RealTime-ChatApplication',
-    description: 'Built a Real Time Chat Application using MERN Stack and NextJs for proper SEO SSR,CSR (deployed on vercel and backend on render)',
+    description: 'Built a Real Time Chat Application using MERN Stack and NextJs for proper SEO SSR,CSR also use redis fro caching purpose and bull for message queue (deployed on vercel and backend on render) ',
     tags: [ 'Nextjs','Mongdb', 'Node.js','React.js','Exoress'],
-    link: 'https://chatingfrontend-git-main-ahmed-hassans-projects-96c42d63.vercel.app'
+    link: 'https://the-chafrontend-git-main-ahmed-hassans-projects-96c42d63.vercel.app'
   }
 ];
 

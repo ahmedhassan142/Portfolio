@@ -83,7 +83,7 @@ const projects: Project[] = [
     title: 'Tech-Blog Website',
     description: 'Built a Tech-Blog Website using MERN Stack and NextJs for proper SEO SSR,CSR  (deployed on vercel and backend on render) ',
     tags: [ 'Nextjs','Mongdb', 'Node.js','React.js','Exoress'],
-    link: 'https://tech-blog-frontend-git-main-ahmed-hassans-projects-96c42d63.vercel.app'
+    link: 'https://tech-blog-frontend-3-git-8bf154-ahmed-hassans-projects-96c42d63.vercel.app'
   }
 ];
 

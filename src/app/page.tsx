@@ -77,6 +77,13 @@ const projects: Project[] = [
     description: 'Built a Real Time Chat Application using MERN Stack and NextJs for proper SEO SSR,CSR also use redis fro caching purpose and bull for message queue (deployed on vercel and backend on render) ',
     tags: [ 'Nextjs','Mongdb', 'Node.js','React.js','Exoress'],
     link: 'https://the-chafrontend-git-main-ahmed-hassans-projects-96c42d63.vercel.app'
+  },
+    {
+    id: '10',
+    title: 'Tech-Blog Website',
+    description: 'Built a Tech-Blog Website using MERN Stack and NextJs for proper SEO SSR,CSR  (deployed on vercel and backend on render) ',
+    tags: [ 'Nextjs','Mongdb', 'Node.js','React.js','Exoress'],
+    link: 'https://tech-blog-frontend-git-main-ahmed-hassans-projects-96c42d63.vercel.app'
   }
 ];
 

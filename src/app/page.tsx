@@ -91,6 +91,13 @@ const projects: Project[] = [
     description: 'Built a ManSalon Website using  NextJs for  proper SEO SSR  (deployed on vercel ) ',
     tags: [ 'Nextjs','Mongdb', 'Node.js','React.js'],
     link: 'https://mansalon-lyy2-git-main-ahmed-hassans-projects-96c42d63.vercel.app'
+  },
+  {
+    id: '12',
+    title: 'PlumberWebsite',
+    description: 'Built a Plumber Website using  NextJs for  proper SEO SSR  (deployed on vercel ) ',
+    tags: [ 'Nextjs','Mongdb', 'Node.js','React.js'],
+    link: 'https://plumberwebsite-git-main-ahmed-hassans-projects-96c42d63.vercel.app'
   }
 ];
 

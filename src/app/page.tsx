@@ -101,10 +101,10 @@ const projects: Project[] = [
   },
    {
     id: '13',
-    title: 'RestaurantWebsite',
+    title: 'ServiceWebsite',
     description: 'Built a Restaurant Website using  NextJs for  proper SEO SSR  (deployed on vercel ) ',
     tags: [ 'Nextjs','Mongdb', 'Node.js','React.js'],
-    link: "https://restaurant-git-main-ahmed-hassans-projects-96c42d63.vercel.app"
+    link: "https://portfoliopersonla-we-git-141f83-ahmed-hassans-projects-96c42d63.vercel.app"
   },
    {
     id: '14',
@@ -113,8 +113,15 @@ const projects: Project[] = [
     tags: [ 'Nextjs','Mongdb', 'Node.js','React.js'],
     link: "https://restaurant-git-main-ahmed-hassans-projects-96c42d63.vercel.app"
   },
-     {
+   {
     id: '15',
+    title: 'FitnessWebsite',
+    description: 'Built a Restaurant Website using  NextJs for  proper SEO SSR  (deployed on vercel ) ',
+    tags: [ 'Nextjs','Mongdb', 'Node.js','React.js'],
+    link: "https://fitnesswebsite-git-main-ahmed-hassans-projects-96c42d63.vercel.app/"
+  },
+     {
+    id: '16',
     title: 'DentistWebsite',
     description: 'Built a Dentist Website using  NextJs for  proper SEO SSR  (deployed on vercel ) ',
     tags: [ 'Nextjs','Mongdb', 'Node.js','React.js'],
